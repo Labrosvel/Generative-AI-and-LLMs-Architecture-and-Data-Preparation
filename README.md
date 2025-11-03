@@ -1,3 +1,3 @@
 # Generative-AI-and-LLMs-Architecture-and-Data-Preparation
-## GenAI Architecture
+## Module 1: GenAI Architecture
 - Gen AI Architectures and Models
