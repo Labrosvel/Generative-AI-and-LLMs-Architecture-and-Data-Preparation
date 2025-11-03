@@ -3,3 +3,5 @@
 - Gen AI Architectures and Models
 - Basics of AI Hallucinations
 - Overview of Libraries and Tools
+
+## Module 2: Data Preparation for LLMs
