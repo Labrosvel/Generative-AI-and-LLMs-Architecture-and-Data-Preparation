@@ -12,3 +12,4 @@
   - Tokenizations: Word-based, Character-based, Subword-based (WordPiece, Unigram, SentencePiece algorithms)
 - Lab2a: Implementing Tokenization
 - Data Loaders
+- Data Quality and Diversity for LLM Training (Reading 2a)
