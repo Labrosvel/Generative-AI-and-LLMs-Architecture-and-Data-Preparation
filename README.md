@@ -8,4 +8,5 @@
 
 ## Module 2: Data Preparation for LLMs
 - Tokenization
-  - Libraries: NLTK, SpaCy. Tokenizations: Word-based, Character-based, Subword-based (WordPiece, Unigram, SentencePiece algorithms). 
+  - Libraries: NLTK, SpaCy, BertTokenizer, XLNetTokenizer, tochtext
+  - Tokenizations: Word-based, Character-based, Subword-based (WordPiece, Unigram, SentencePiece algorithms) 
