@@ -2,7 +2,7 @@
 ## Module 1: GenAI Architecture
 - Gen AI Architectures and Models
 - Basics of AI Hallucinations (Reading 1a)
-- Overview of Libraries and Tools (Reading 1b)
+- Overview of Libraries and Tools (Reading 1b): PyTorch, TensorFlow, Hugging Face, LangChain, Pydantic
 - Lab1a: Exploring Gen AI Libraries
 
 ## Module 2: Data Preparation for LLMs
