@@ -1,16 +1,8 @@
 # Generative-AI-and-LLMs-Architecture-and-Data-Preparation
 ## Module 1: GenAI Architecture
+- Significance of Gen AI
 - Gen AI Architectures and Models
+- Gen AI for NLP
 - Basics of AI Hallucinations (Reading 1a)
 - Overview of Libraries and Tools (Reading 1b):
-  - PyTorch, TensorFlow, Hugging Face, LangChain, Pydantic
 - Lab1a: Exploring Gen AI Libraries
-
-## Module 2: Data Preparation for LLMs
-- Tokenization
-  - Libraries: NLTK, SpaCy, BertTokenizer, XLNetTokenizer, tochtext
-  - Tokenizations: Word-based, Character-based, Subword-based (WordPiece, Unigram, SentencePiece algorithms)
-- Lab2a: Implementing Tokenization
-- Data Loaders
-- Data Quality and Diversity for LLM Training (Reading 2a)
-- Lab2b: Creating an NLP Data Loader
