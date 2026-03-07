@@ -1,3 +1,5 @@
+https://www.coursera.org/learn/generative-ai-llm-architecture-data-preparation
+
 # Generative-AI-and-LLMs-Architecture-and-Data-Preparation
 ## Module 1: GenAI Architecture
 - Significance of Gen AI
